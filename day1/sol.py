@@ -1,11 +1,8 @@
 import re
 
 inp = open("input.txt", "r")
-
 text = inp.readlines()
-
 res = []
-
 startIndex = 0
 endIndex = 0
 
